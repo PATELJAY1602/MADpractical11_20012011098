@@ -33,14 +33,6 @@ Create RecyclerView & its adapter to display all notes.
 
 Light Mode :
 
-
-
-
-
-
-
-Dark Mode :
-
 ![image](https://user-images.githubusercontent.com/110656702/202912991-b508ef9d-8d79-4a9e-9c17-848a63a7acfe.png)
 
 ![image](https://user-images.githubusercontent.com/110656702/202913001-b393afd2-8e4e-440b-bcf4-203108c9c01d.png)
@@ -51,8 +43,17 @@ Dark Mode :
 
 ![image](https://user-images.githubusercontent.com/110656702/202913026-da525971-412e-4d83-b97e-77c7b6505bf5.png)
 
+Dark mode :
 
+![image](https://user-images.githubusercontent.com/110656702/202913084-d29f63ac-76cc-4f8e-b0ad-8aeb5ba818b6.png)
 
+![image](https://user-images.githubusercontent.com/110656702/202913100-7d4fccb0-84b1-4d59-81fa-5a6ad224085b.png)
+
+![image](https://user-images.githubusercontent.com/110656702/202913091-917495b7-0ad1-4759-8a64-0297a1585ca5.png)
+
+![image](https://user-images.githubusercontent.com/110656702/202913121-b28bf9ff-ab32-42c5-9013-9f653939bd4a.png)
+
+![image](https://user-images.githubusercontent.com/110656702/202913127-ccfc0793-bca8-4b4d-8e4a-a1048bce87c7.png)
 
 
      
