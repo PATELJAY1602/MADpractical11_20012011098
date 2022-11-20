@@ -31,7 +31,30 @@ Create Common Custom Dialog Box for add, edit note.
 
 Create RecyclerView & its adapter to display all notes.
 
+Light Mode :
+
+
+
+
+
+
+
 Dark Mode :
+
+![image](https://user-images.githubusercontent.com/110656702/202912991-b508ef9d-8d79-4a9e-9c17-848a63a7acfe.png)
+
+![image](https://user-images.githubusercontent.com/110656702/202913001-b393afd2-8e4e-440b-bcf4-203108c9c01d.png)
+
+![image](https://user-images.githubusercontent.com/110656702/202913005-2b872e59-0787-4283-b1df-4b5a3cb5a6e0.png)
+
+![image](https://user-images.githubusercontent.com/110656702/202913016-b659cc2e-591a-4f2c-a126-c141f2f5fd31.png)
+
+![image](https://user-images.githubusercontent.com/110656702/202913026-da525971-412e-4d83-b97e-77c7b6505bf5.png)
+
+
+
+
+
      
  
    
